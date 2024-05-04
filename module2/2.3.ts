@@ -42,9 +42,7 @@
         name: "Mezba" , 
         email: 'a@gmail.com'
     },
-    {
-
-    }
+    
   ]
 
 
